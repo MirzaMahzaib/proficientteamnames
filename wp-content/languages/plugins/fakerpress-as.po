@@ -1,0 +1,200 @@
+# Translation of Plugins - FakerPress - Stable (latest release) in Assamese
+# This file is distributed under the same license as the Plugins - FakerPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-04 08:06:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: as_IN\n"
+"Project-Id-Version: Plugins - FakerPress - Stable (latest release)\n"
+
+#: src/FakerPress/Utils.php:1190
+msgid "South Georgia"
+msgstr "South Georgia"
+
+#: src/FakerPress/Utils.php:1155
+msgid "Singapore"
+msgstr "ছিংগাপুৰ"
+
+#: src/FakerPress/Utils.php:1115
+msgid "Samoa"
+msgstr "Samoa"
+
+#: src/FakerPress/Utils.php:1120
+msgid "San Marino"
+msgstr "San Marino"
+
+#: src/FakerPress/Utils.php:1050
+msgid "Qatar"
+msgstr "কাটাৰ"
+
+#: src/FakerPress/Utils.php:1045
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: src/FakerPress/Utils.php:1005
+msgid "Panama"
+msgstr "পানামা"
+
+#: src/FakerPress/Utils.php:995
+msgid "Palau"
+msgstr "Palau"
+
+#: src/FakerPress/Utils.php:960
+msgid "Niue"
+msgstr "Niue"
+
+#: src/FakerPress/Utils.php:920
+msgid "Nauru"
+msgstr "Nauru"
+
+#: src/FakerPress/Utils.php:895
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: src/FakerPress/Utils.php:880
+msgid "Monaco"
+msgstr "Monaco"
+
+#: src/FakerPress/Utils.php:860
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: src/FakerPress/Utils.php:855
+msgid "Mauritius"
+msgstr "মৰিচাছ"
+
+#: src/FakerPress/Utils.php:845
+msgid "Martinique"
+msgstr "Martinique"
+
+#: src/FakerPress/Utils.php:835
+msgid "Malta"
+msgstr "মাল্টা"
+
+#: src/FakerPress/Utils.php:825
+msgid "Maldives"
+msgstr "মালডিভিচ"
+
+#: src/FakerPress/Utils.php:800
+msgid "Macau"
+msgstr "Macau"
+
+#: src/FakerPress/Utils.php:795
+msgid "Luxembourg"
+msgstr "লাক্স্যেমবাৰ্গ"
+
+#: src/FakerPress/Utils.php:745
+msgid "Kuwait"
+msgstr "কুৱেইট"
+
+#: src/FakerPress/Utils.php:720
+msgid "Jersey"
+msgstr "Jersey"
+
+#: src/FakerPress/Utils.php:710
+msgid "Jamaica"
+msgstr "জামাইকা"
+
+#: src/FakerPress/Utils.php:695
+msgid "Isle of Man"
+msgstr "Isle of Man"
+
+#: src/FakerPress/Utils.php:650
+msgid "Hong Kong"
+msgstr "হংকং"
+
+#: src/FakerPress/Utils.php:630
+msgid "Guyana"
+msgstr "Guyana"
+
+#: src/FakerPress/Utils.php:610
+msgid "Guatemala"
+msgstr "গুৱাট্যেমালা"
+
+#: src/FakerPress/Utils.php:615
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: src/FakerPress/Utils.php:605
+msgid "Guam"
+msgstr "Guam"
+
+#: src/FakerPress/Utils.php:595
+msgid "Grenada"
+msgstr "Grenada"
+
+#: src/FakerPress/Utils.php:600
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: src/FakerPress/Utils.php:580
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: src/FakerPress/Utils.php:525
+msgid "Fiji"
+msgstr "ফিজি"
+
+#: src/FakerPress/Utils.php:490
+msgid "El Salvador"
+msgstr "এল চালভাড'ৰ"
+
+#: src/FakerPress/Utils.php:470
+msgid "Dominica"
+msgstr "Dominica"
+
+#: src/FakerPress/Utils.php:465
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: src/FakerPress/Utils.php:430
+msgid "Costa Rica"
+msgstr "ক'ষ্টা ৰিকা"
+
+#: src/FakerPress/Utils.php:365
+msgid "Cape Verde"
+msgstr "Cape Verde"
+
+#: src/FakerPress/Utils.php:330
+msgid "Brunei"
+msgstr "ব্ৰুনেই"
+
+#: src/FakerPress/Utils.php:275
+msgid "Bermuda"
+msgstr "বাৰ্মুডা"
+
+#: src/FakerPress/Utils.php:265
+msgid "Belize"
+msgstr "Belize"
+
+#: src/FakerPress/Utils.php:250
+msgid "Barbados"
+msgstr "বাৰ্বাডোজ"
+
+#: src/FakerPress/Utils.php:240
+msgid "Bahrain"
+msgstr "বাহৰেইন"
+
+#: src/FakerPress/Utils.php:215
+msgid "Aruba"
+msgstr "Aruba"
+
+#: src/FakerPress/Utils.php:220
+msgid "Australia"
+msgstr "অষ্ট্ৰেলিয়া"
+
+#: src/FakerPress/Utils.php:205
+msgid "Argentina"
+msgstr "আৰ্জেন্টিনা"
+
+#: src/FakerPress/Utils.php:195
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: src/FakerPress/Utils.php:185
+msgid "Andorra"
+msgstr "Andorra"
